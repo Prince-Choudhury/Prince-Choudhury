@@ -5,6 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince-choudhury&label=Profile%20views&color=0e75b6&style=flat" alt="prince-choudhury" /> </p>
 
+- 🌱 I’m currently learning **Data Science**
+
+- 📫 How to reach me **choudhuryprince19@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
