@@ -1,6 +1,5 @@
-![logo](https://camo.githubusercontent.com/3ea7aa3afdfa7bb5b57642e6adbd0a1abc384de96a383ea90ba07e8907b2a200/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f49635a68466d75666f7a4443696a337032322f67697068792e676966)
 <h1 align="center">Hi 👋, I'm Prince Choudhury</h1>
-<h3 align="center">Computer Science Student at VIT || Aspiring Data Scientist</h3>
+<h3 align="center">Data Science aspirant | Deep Learning | Machine Learning | Big Data</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
